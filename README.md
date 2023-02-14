@@ -1,1 +1,1 @@
-# rn-sqlite-example
+# React Native SQLITE - Example (soon)
